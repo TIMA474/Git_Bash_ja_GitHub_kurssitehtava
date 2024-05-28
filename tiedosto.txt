@@ -1,0 +1,8 @@
+uusi sisältö
+lisäsin uuttaa sisältöä
+muutos
+muutos >> tiedosto.txt
+reset
+echo muutos
+muutos
+muutos
